@@ -63,15 +63,10 @@ body{
     border: none;
 }
 
-* {
-    box-sizing: border-box;
-}
 
-img {
-    width: 100%;
-    height: auto;
-}
+
+
 .img-navbar{
-    height:30px;
-    width: 38px;
+    height:35px;
+    width: 44px;
 }
