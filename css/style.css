@@ -1,0 +1,66 @@
+@font-face {
+	font-family: "accid";
+	src: url('Aero Matics Regular.ttf');
+}
+.subject{
+  height: 150px;
+  background-color: #034159;
+  text-align: center;
+}
+body{
+  background-color:#1D2461 ;
+}
+.title_sub{
+  color : black;
+  background-color: #333333;
+  color: white ;
+}
+.btn-primary{
+  background-color: #1B538F;
+}
+.nav-link{
+  margin-left: 110px;
+  font-size: 20px;
+  font-family: "accid"
+}
+.card-body{
+  background-color: white;
+  border-radius: 20px;
+}
+.ico{
+
+  margin-left: 130px;
+  margin-right: 20px;
+}
+.page-footer{
+	background-color: #686FAD;
+	height: 300px;
+}
+.navbar{
+	text-align: center;
+}
+.picture_instrus{
+	height: 100px;
+	width: 150px;
+}
+.container{
+    
+}
+.instrumental{
+	height: 450px;
+	width: 350px;
+}
+.modal-get-offer .modal-content {
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    background: #647497;
+    color: #FFF;
+}
+
+    .modal-get-offer .modal-content .modal-header {
+        text-align: center;
+        border: none;
+    }
+
+
