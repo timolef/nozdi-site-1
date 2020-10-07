@@ -22,7 +22,7 @@
         <a class="nav-link" href="index.php"> HOME <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="music.php"> MY MUSIC TEST1<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="music.php"> MY MUSIC<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item active">
         <a class="nav-link" href="forum.php"> FORUM <span class="sr-only">(current)</span></a>
