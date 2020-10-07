@@ -9,8 +9,8 @@
   
     <nav class="navbar navbar-expand-sm navbar-light bg-light"> 
         <div class="container"> 
-            <a class="navbar-brand text-success" href="#"> 
-               <img src="images/test_nozdi_logo.png">
+            <a class="navbar-brand" href="#"> 
+               <img src="images/test_nozdi_logo.png" class="img-fluid">
             </a> 
             <button class="navbar-toggler" type="button" 
                     data-toggle="collapse"
