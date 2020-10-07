@@ -7,10 +7,10 @@
   </head>
   <body>
   
-    <nav class="navbar navbar-expand-sm navbar-light bg-light"> 
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark"> 
         <div class="container"> 
             <a class="navbar-brand text-success" href="#"> 
-              Geeksforgeeks 
+              Nozdi Beats
             </a> 
             <button class="navbar-toggler" type="button" 
                     data-toggle="collapse"
@@ -26,7 +26,7 @@
             <div class="collapse navbar-collapse" 
                  id="navbarSupportedContent"> 
                 <ul class="navbar-nav mr-auto"> 
-                    <li class="nav-item active"> 
+                    <li class="nav-item text-white"> 
                         <a class="nav-link" 
                            href="#"> 
                           Home  
@@ -35,13 +35,13 @@
                           </span> 
                       </a> 
                     </li> 
-                    <li class="nav-item"> 
+                    <li class="nav-item text-white"> 
                         <a class="nav-link" 
                            href="#"> 
                           About 
                         </a> 
                     </li> 
-                    <li class="nav-item"> 
+                    <li class="nav-item text-white"> 
                         <a class="nav-link"
                            href="#"> 
                           Contact 
