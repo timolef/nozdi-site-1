@@ -9,7 +9,7 @@
   
     <nav class="navbar navbar-expand-sm navbar-light bg-light"> 
         <div class="container"> 
-            <a class="navbar-brand" href="#"> 
+            <a class="navbar-brand img-navbar" href="#"> 
                <img src="images/test_nozdi_logo.png" class="img-fluid">
             </a> 
             <button class="navbar-toggler" type="button" 

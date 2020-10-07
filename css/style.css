@@ -58,9 +58,20 @@ body{
     color: #FFF;
 }
 
-    .modal-get-offer .modal-content .modal-header {
-        text-align: center;
-        border: none;
-    }
+.modal-get-offer .modal-content .modal-header {
+    text-align: center;
+    border: none;
+}
 
+* {
+    box-sizing: border-box;
+}
 
+img {
+    width: 100%;
+    height: auto;
+}
+.img-navbar{
+    height:100px;
+    width: 100px;
+}
